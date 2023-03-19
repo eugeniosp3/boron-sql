@@ -1,5 +1,7 @@
 # boron-sql
-A lightweight, web based SQL editor. 
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/64187887/226154785-89cb2fc5-bb44-427c-9c5b-831478b1d0b4.png">
+
+Boron is the lightest element having an electron in a p-orbital in its ground state. As such, Boron is a lightweight, web based SQL editor. 
 
 
 <h2>Figma Design</h2>
