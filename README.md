@@ -10,7 +10,7 @@ Boron is the lightest element having an electron in a p-orbital in its ground st
 <h3>Database Type Selector, Table Column Display, Database Login Screen</h3>
 <div>
 <img width="182.5" alt="image" src="https://user-images.githubusercontent.com/64187887/226158468-d57462e7-6272-4faf-acb9-c1541b1c5f4a.png">
-<img width="206" alt="image" src="https://user-images.githubusercontent.com/64187887/226158635-b4f1d7f0-0e7a-45d8-8162-8d2922e5f504.png">  <img width="335.5" alt="image" src="https://user-images.githubusercontent.com/64187887/226155723-ddc54b26-1b02-41f5-a2fa-907e46345e8f.png">
-
+<img width="206" alt="image" src="https://user-images.githubusercontent.com/64187887/226158635-b4f1d7f0-0e7a-45d8-8162-8d2922e5f504.png">  
+<img width="333.5" alt="image" src="https://user-images.githubusercontent.com/64187887/226159009-fa8cafbe-4f99-48f0-8aa7-1882628c1410.png">
   </div>
 
