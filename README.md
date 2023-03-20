@@ -14,3 +14,5 @@ Boron is the lightest element having an electron in a p-orbital in its ground st
 <img width="333.5" alt="image" src="https://user-images.githubusercontent.com/64187887/226159009-fa8cafbe-4f99-48f0-8aa7-1882628c1410.png">
   </div>
 
+<h3>Architecture Information</h3>
+TBD
